@@ -110,7 +110,7 @@ header-includes:
 Описываются проведённые действия, в качестве иллюстрации даётся ссылка на иллюстрацию (рис. [-@fig:001]).
 
 ![Название рисунка](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
-![Название рисунка1](/home/amazurkevich/Изображения/2.1.1.png){#fig:002 width=70%}
+![Название рисунка1](image/2.1.1.png){#fig:002 width=70%}
 ![Название рисунка2](https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.freepik.com%2Fphotos%2Fnature&psig=AOvVaw3yNK6_nP6s9aiU1bXdleHJ&ust=1728830222370000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDp2cyIiYkDFQAAAAAdAAAAABAE){#fig:003 width=70%}
 
 # Выводы
