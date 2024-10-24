@@ -21,7 +21,7 @@ fontsize: 12pt
 linestretch: 1.5
 papersize: a4
 documentclass: scrreprt
-usepackage: russian
+usepackage: utf8
 ## I18n polyglossia
 polyglossia-lang:
   name: russian
