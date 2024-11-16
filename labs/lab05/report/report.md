@@ -64,6 +64,8 @@ lolTitle: "Листинги"
 indent: true
 header-includes:
   - \usepackage{indentfirst}
+  - \usepackage{graphicx}
+  - usepackage{amsmath}
   - \usepackage{float} # keep figures where there are in the text
   - \floatplacement{figure}{H} # keep figures where there are in the text
 ---
