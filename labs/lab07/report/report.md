@@ -193,7 +193,3 @@ header-includes:
 листинга.
 
 
-# Список литературы{.unnumbered}
-
-::: {#refs}
-:::
