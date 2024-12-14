@@ -1,7 +1,7 @@
 ---
 ## Front matter
 title: "Лабораторная работа 10"
-subtitle: "Простейший вариант"
+subtitle: ""
 author: "Мазуркевич Анастасия"
 
 ## Generic otions
