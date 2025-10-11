@@ -33,47 +33,47 @@ header-includes:
 
 ## Управление заданиями
 
-![Список запущенных заданий](Screenshot_1.png){ #fig:001 width=70% }
+![Список запущенных заданий](image/Screenshot_1.png){ #fig:001 width=70% }
 
 ## Управление заданиями
 
-![Процесс dd в top](Screenshot_2.png){ #fig:002 width=70% }
+![Процесс dd в top](image/Screenshot_2.png){ #fig:002 width=70% }
 
 ## Управление заданиями
 
-![Завершение процесса dd в top](Screenshot_3.png){ #fig:003 width=70% }
+![Завершение процесса dd в top](image/Screenshot_3.png){ #fig:003 width=70% }
 
 ## Управление процессами
 
-![Поиск процессов dd](Screenshot_4.png){ #fig:004 width=70% }
+![Поиск процессов dd](image/Screenshot_4.png){ #fig:004 width=70% }
 
 ## Управление процессами
 
-![Завершение родительского процесса и дочерних dd](Screenshot_5.png){ #fig:005 width=70% }
+![Завершение родительского процесса и дочерних dd](image/Screenshot_5.png){ #fig:005 width=70% }
 
 ## Задание 1
 
-![Запуск, изменение приоритета и завершение процессов dd](Screenshot_6.png){ #fig:006 width=70% }
+![Запуск, изменение приоритета и завершение процессов dd](image/Screenshot_6.png){ #fig:006 width=70% }
 
 ## Задание 2
 
-![Фоновые и приостановленные процессы yes](Screenshot_7.png){ #fig:007 width=70% }
+![Фоновые и приостановленные процессы yes](image/Screenshot_7.png){ #fig:007 width=70% }
 
 ## Задание 2
 
-![Запуск yes с nohup](Screenshot_8.png){ #fig:008 width=70% }
+![Запуск yes с nohup](image/Screenshot_8.png){ #fig:008 width=70% }
 
 ## Задание 2
 
-![Процессы yes в top](Screenshot_9.png){ #fig:009 width=70% }
+![Процессы yes в top](image/Screenshot_9.png){ #fig:009 width=70% }
 
 ## Задание 2
 
-![Завершение процессов yes](Screenshot_10.png){ #fig:010 width=70% }
+![Завершение процессов yes](image/Screenshot_10.png){ #fig:010 width=70% }
 
 ## Задание 2
 
-![Изменение приоритета процессов yes](Screenshot_11.png){ #fig:011 width=70% }
+![Изменение приоритета процессов yes](image/Screenshot_11.png){ #fig:011 width=70% }
 
 # Выводы по проделанной работе
 
