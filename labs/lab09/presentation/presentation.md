@@ -33,59 +33,59 @@ header-includes:
 
 ## Управление режимами SELinux
 
-![Проверка состояния SELinux](Screenshot_2.png){ #fig:001 width=70% }
+![Проверка состояния SELinux](image/Screenshot_2.png){ #fig:001 width=70% }
 
 ## Управление режимами SELinux
 
-![Изменение конфигурации SELinux](Screenshot_1.png){ #fig:002 width=70% }
+![Изменение конфигурации SELinux](image/Screenshot_1.png){ #fig:002 width=70% }
 
 ## Управление режимами SELinux
 
-![SELinux отключён](Screenshot_3.png){ #fig:003 width=70% }
+![SELinux отключён](image/Screenshot_3.png){ #fig:003 width=70% }
 
 ## Управление режимами SELinux
 
-![Включение enforcing-режима SELinux](Screenshot_4.png){ #fig:004 width=70% }
+![Включение enforcing-режима SELinux](image/Screenshot_4.png){ #fig:004 width=70% }
 
 ## Управление режимами SELinux
 
-![Процесс восстановления меток при загрузке](Screenshot_5.png){ #fig:005 width=70% }
+![Процесс восстановления меток при загрузке](image/Screenshot_5.png){ #fig:005 width=70% }
 
 ## Управление режимами SELinux
 
-![Повторная проверка статуса SELinux](Screenshot_6.png){ #fig:006 width=70% }
+![Повторная проверка статуса SELinux](image/Screenshot_6.png){ #fig:006 width=70% }
 
 ## Использование restorecon
 
-![Контекст безопасности файла hosts](Screenshot_7.png){ #fig:007 width=70% }
+![Контекст безопасности файла hosts](image/Screenshot_7.png){ #fig:007 width=70% }
 
 ## Использование restorecon
 
-![Автоматическое восстановление контекстов SELinux](Screenshot_8.png){ #fig:008 width=70% }
+![Автоматическое восстановление контекстов SELinux](image/Screenshot_8.png){ #fig:008 width=70% }
 
 ## Изменение каталога DocumentRoot
 
-![Создание каталога и файла index.html](Screenshot_9.png){ #fig:009 width=70% }
+![Создание каталога и файла index.html](image/Screenshot_9.png){ #fig:009 width=70% }
 
 ## Изменение конфигурации Apache
 
-![Изменение настроек httpd.conf](Screenshot_10.png){ #fig:010 width=70% }
+![Изменение настроек httpd.conf](image/Screenshot_10.png){ #fig:010 width=70% }
 
 ## Проверка доступа
 
-![Страница Apache по умолчанию](Screenshot_11.png){ #fig:011 width=70% }
+![Страница Apache по умолчанию](image/Screenshot_11.png){ #fig:011 width=70% }
 
 ## Настройка контекста безопасности
 
-![Назначение и восстановление контекста безопасности для /web](Screenshot_12.png){ #fig:012 width=70% }
+![Назначение и восстановление контекста безопасности для /web](image/Screenshot_12.png){ #fig:012 width=70% }
 
 ## Проверка результата
 
-![Отображение пользовательской страницы](Screenshot_13.png){ #fig:013 width=70% }
+![Отображение пользовательской страницы](image/Screenshot_13.png){ #fig:013 width=70% }
 
 ## Настройка переключателя ftpd_anon_write
 
-![Настройка переключателя ftpd_anon_write](Screenshot_14.png){ #fig:014 width=70% }
+![Настройка переключателя ftpd_anon_write](image/Screenshot_14.png){ #fig:014 width=70% }
 
 # Заключение
 
