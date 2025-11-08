@@ -33,39 +33,39 @@ header-includes:
 
 ## Управление модулями ядра
 
-![Вывод команды lspci -k](Screenshot_1.png){ #fig:001 width=70% }
+![Вывод команды lspci -k](image/Screenshot_1.png){ #fig:001 width=70% }
 
 ## Управление модулями ядра
 
-![Список загруженных модулей ядра](Screenshot_2.png){ #fig:002 width=70% }
+![Список загруженных модулей ядра](image/Screenshot_2.png){ #fig:002 width=70% }
 
 ## Проверка и загрузка модуля ext4
 
-![Загрузка и проверка модуля ext4](Screenshot_3.png){ #fig:003 width=70% }
+![Загрузка и проверка модуля ext4](image/Screenshot_3.png){ #fig:003 width=70% }
 
 ## Информация о модуле ext4
 
-![Информация о модуле ext4](Screenshot_4.png){ #fig:004 width=70% }
+![Информация о модуле ext4](image/Screenshot_4.png){ #fig:004 width=70% }
 
 ## Удаление модулей ext4 и xfs
 
-![Попытка удаления модулей ext4 и xfs](Screenshot_5.png){ #fig:005 width=70% }
+![Попытка удаления модулей ext4 и xfs](image/Screenshot_5.png){ #fig:005 width=70% }
 
 ## Работа с модулем Bluetooth
 
-![Загрузка модуля bluetooth](Screenshot_6.png){ #fig:006 width=70% }
+![Загрузка модуля bluetooth](image/Screenshot_6.png){ #fig:006 width=70% }
 
 ## Параметры модуля Bluetooth
 
-![Информация о модуле bluetooth и его параметры](Screenshot_7.png){ #fig:007 width=70% }
+![Информация о модуле bluetooth и его параметры](image/Screenshot_7.png){ #fig:007 width=70% }
 
 ## Обновление ядра системы
 
-![Проверка текущего ядра и списка доступных пакетов](Screenshot_8.png){ #fig:008 width=70% }
+![Проверка текущего ядра и списка доступных пакетов](image/Screenshot_8.png){ #fig:008 width=70% }
 
 ## Обновление ядра системы
 
-![Обновление ядра и системы](Screenshot_9.png){ #fig:009 width=70% }
+![Обновление ядра и системы](image/Screenshot_9.png){ #fig:009 width=70% }
 
 # Выводы по проделанной работе
 
