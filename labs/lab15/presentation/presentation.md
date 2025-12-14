@@ -33,69 +33,69 @@ header-includes:
 
 ## Создание физического тома
 
-![Разметка /dev/sdb](Screenshot_1.png){ #fig:001 width=70% }
+![Разметка /dev/sdb](image/Screenshot_1.png){ #fig:001 width=70% }
 
 ## Создание физического тома
 
-![Физический том /dev/sdb1](Screenshot_2.png){ #fig:002 width=70% }
+![Физический том /dev/sdb1](image/Screenshot_2.png){ #fig:002 width=70% }
 
 ## Создание группы томов
 
-![Создание VG vgdata](Screenshot_3.png){ #fig:003 width=70% }
+![Создание VG vgdata](image/Screenshot_3.png){ #fig:003 width=70% }
 
 ## Создание логического тома
 
-![Создание ФС ext4 на lvdata](Screenshot_4.png){ #fig:004 width=70% }
+![Создание ФС ext4 на lvdata](image/Screenshot_4.png){ #fig:004 width=70% }
 
 ## Монтирование файловой системы
 
-![Проверка монтирования /mnt/data](Screenshot_5.png){ #fig:005 width=70% }
+![Проверка монтирования /mnt/data](image/Screenshot_5.png){ #fig:005 width=70% }
 
 ## Расширение LVM
 
-![Создание раздела /dev/sdb2](Screenshot_6.png){ #fig:006 width=70% }
+![Создание раздела /dev/sdb2](image/Screenshot_6.png){ #fig:006 width=70% }
 
 ## Расширение группы томов
 
-![Расширенная VG vgdata](Screenshot_7.png){ #fig:007 width=70% }
+![Расширенная VG vgdata](image/Screenshot_7.png){ #fig:007 width=70% }
 
 ## Увеличение логического тома
 
-![Расширение lvdata](Screenshot_8.png){ #fig:008 width=70% }
+![Расширение lvdata](image/Screenshot_8.png){ #fig:008 width=70% }
 
 ## Уменьшение логического тома
 
-![Уменьшение размера lvdata](Screenshot_9.png){ #fig:009 width=70% }
+![Уменьшение размера lvdata](image/Screenshot_9.png){ #fig:009 width=70% }
 
 # Самостоятельная работа
 
 ## Разметка диска /dev/sdc
 
-![Разметка диска /dev/sdc](Screenshot_10.png){ #fig:010 width=70% }
+![Разметка диска /dev/sdc](image/Screenshot_10.png){ #fig:010 width=70% }
 
 ## Создание PV и VG
 
-![Создание PV /dev/sdc1](Screenshot_11.png){ #fig:011 width=70% }
+![Создание PV /dev/sdc1](image/Screenshot_11.png){ #fig:011 width=70% }
 
 ## Создание LV lvgroup
 
-![Создание VG и LV](Screenshot_12.png){ #fig:012 width=70% }
+![Создание VG и LV](image/Screenshot_12.png){ #fig:012 width=70% }
 
 ## Монтирование lvgroup
 
-![Конфигурация fstab](Screenshot_13.png){ #fig:013 width=70% }
+![Конфигурация fstab](image/Screenshot_13.png){ #fig:013 width=70% }
 
 ## Монтирование и проверка
 
-![Монтирование lvgroup](Screenshot_14.png){ #fig:014 width=70% }
+![Монтирование lvgroup](image/Screenshot_14.png){ #fig:014 width=70% }
 
 ## Расширение LV и XFS
 
-![Расширение XFS](Screenshot_15.png){ #fig:015 width=70% }
+![Расширение XFS](image/Screenshot_15.png){ #fig:015 width=70% }
 
 ## Итоговая проверка
 
-![Итоговая проверка систем](Screenshot_16.png){ #fig:016 width=70% }
+![Итоговая проверка систем](image/Screenshot_16.png){ #fig:016 width=70% }
 
 # Выводы по проделанной работе
 
